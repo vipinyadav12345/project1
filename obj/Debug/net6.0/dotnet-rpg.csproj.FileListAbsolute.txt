@@ -1,0 +1,262 @@
+D:\workspace\dotnet-rpg\bin\Debug\net6.0\appsettings.Development.json
+D:\workspace\dotnet-rpg\bin\Debug\net6.0\appsettings.json
+D:\workspace\dotnet-rpg\bin\Debug\net6.0\dotnet-rpg.exe
+D:\workspace\dotnet-rpg\bin\Debug\net6.0\dotnet-rpg.deps.json
+D:\workspace\dotnet-rpg\bin\Debug\net6.0\dotnet-rpg.runtimeconfig.json
+D:\workspace\dotnet-rpg\bin\Debug\net6.0\dotnet-rpg.dll
+D:\workspace\dotnet-rpg\bin\Debug\net6.0\dotnet-rpg.pdb
+D:\workspace\dotnet-rpg\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\workspace\dotnet-rpg\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\workspace\dotnet-rpg\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\workspace\dotnet-rpg\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\workspace\dotnet-rpg\obj\Debug\net6.0\dotnet-rpg.csproj.AssemblyReference.cache
+D:\workspace\dotnet-rpg\obj\Debug\net6.0\dotnet-rpg.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\dotnet-rpg\obj\Debug\net6.0\dotnet-rpg.AssemblyInfoInputs.cache
+D:\workspace\dotnet-rpg\obj\Debug\net6.0\dotnet-rpg.AssemblyInfo.cs
+D:\workspace\dotnet-rpg\obj\Debug\net6.0\dotnet-rpg.csproj.CoreCompileInputs.cache
+D:\workspace\dotnet-rpg\obj\Debug\net6.0\dotnet-rpg.MvcApplicationPartsAssemblyInfo.cs
+D:\workspace\dotnet-rpg\obj\Debug\net6.0\dotnet-rpg.MvcApplicationPartsAssemblyInfo.cache
+D:\workspace\dotnet-rpg\obj\Debug\net6.0\staticwebassets.build.json
+D:\workspace\dotnet-rpg\obj\Debug\net6.0\staticwebassets.development.json
+D:\workspace\dotnet-rpg\obj\Debug\net6.0\scopedcss\bundle\dotnet-rpg.styles.css
+D:\workspace\dotnet-rpg\obj\Debug\net6.0\dotnet-rpg.csproj.CopyComplete
+D:\workspace\dotnet-rpg\obj\Debug\net6.0\dotnet-rpg.dll
+D:\workspace\dotnet-rpg\obj\Debug\net6.0\refint\dotnet-rpg.dll
+D:\workspace\dotnet-rpg\obj\Debug\net6.0\dotnet-rpg.pdb
+D:\workspace\dotnet-rpg\obj\Debug\net6.0\dotnet-rpg.genruntimeconfig.cache
+D:\workspace\dotnet-rpg\obj\Debug\net6.0\ref\dotnet-rpg.dll
+D:\workspace\dotnet-rpg\bin\Debug\net6.0\AutoMapper.dll
+D:\workspace\dotnet-rpg\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\workspace\dotnet-rpg\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\workspace\dotnet-rpg\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\workspace\dotnet-rpg\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\workspace\dotnet-rpg\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\workspace\dotnet-rpg\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\workspace\dotnet-rpg\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\workspace\dotnet-rpg\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\workspace\dotnet-rpg\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\workspace\dotnet-rpg\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\workspace\dotnet-rpg\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\workspace\dotnet-rpg\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\workspace\dotnet-rpg\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\workspace\dotnet-rpg\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\workspace\dotnet-rpg\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\workspace\dotnet-rpg\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\workspace\dotnet-rpg\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\workspace\dotnet-rpg\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\workspace\dotnet-rpg\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\workspace\dotnet-rpg\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\workspace\dotnet-rpg\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\workspace\dotnet-rpg\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\workspace\dotnet-rpg\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\workspace\dotnet-rpg\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\workspace\dotnet-rpg\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\workspace\dotnet-rpg\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\workspace\dotnet-rpg\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\workspace\dotnet-rpg\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\workspace\dotnet-rpg\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\workspace\dotnet-rpg\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\workspace\dotnet-rpg\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\workspace\dotnet-rpg\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\workspace\dotnet-rpg\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\workspace\dotnet-rpg\bin\Debug\net6.0\Humanizer.dll
+D:\workspace\dotnet-rpg\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\dotnet-rpg\bin\Debug\net6.0\appsettings.Development.json
+D:\dotnet-rpg\bin\Debug\net6.0\appsettings.json
+D:\dotnet-rpg\bin\Debug\net6.0\dotnet-rpg.exe
+D:\dotnet-rpg\bin\Debug\net6.0\dotnet-rpg.deps.json
+D:\dotnet-rpg\bin\Debug\net6.0\dotnet-rpg.runtimeconfig.json
+D:\dotnet-rpg\bin\Debug\net6.0\dotnet-rpg.dll
+D:\dotnet-rpg\bin\Debug\net6.0\dotnet-rpg.pdb
+D:\dotnet-rpg\bin\Debug\net6.0\AutoMapper.dll
+D:\dotnet-rpg\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\dotnet-rpg\bin\Debug\net6.0\Humanizer.dll
+D:\dotnet-rpg\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\dotnet-rpg\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\dotnet-rpg\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\dotnet-rpg\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\dotnet-rpg\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\dotnet-rpg\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\dotnet-rpg\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\dotnet-rpg\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\dotnet-rpg\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\dotnet-rpg\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\dotnet-rpg\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\dotnet-rpg\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\dotnet-rpg\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\dotnet-rpg\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\dotnet-rpg\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\dotnet-rpg\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\dotnet-rpg\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\dotnet-rpg\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\dotnet-rpg\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\dotnet-rpg\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\dotnet-rpg\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\dotnet-rpg\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\dotnet-rpg\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\dotnet-rpg\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\dotnet-rpg\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\dotnet-rpg\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\dotnet-rpg\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\dotnet-rpg\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dotnet-rpg\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dotnet-rpg\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dotnet-rpg\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dotnet-rpg\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\dotnet-rpg\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\dotnet-rpg\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\dotnet-rpg\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\dotnet-rpg\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\dotnet-rpg\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\dotnet-rpg\obj\Debug\net6.0\dotnet-rpg.csproj.AssemblyReference.cache
+D:\dotnet-rpg\obj\Debug\net6.0\dotnet-rpg.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet-rpg\obj\Debug\net6.0\dotnet-rpg.AssemblyInfoInputs.cache
+D:\dotnet-rpg\obj\Debug\net6.0\dotnet-rpg.AssemblyInfo.cs
+D:\dotnet-rpg\obj\Debug\net6.0\dotnet-rpg.csproj.CoreCompileInputs.cache
+D:\dotnet-rpg\obj\Debug\net6.0\dotnet-rpg.MvcApplicationPartsAssemblyInfo.cs
+D:\dotnet-rpg\obj\Debug\net6.0\dotnet-rpg.MvcApplicationPartsAssemblyInfo.cache
+D:\dotnet-rpg\obj\Debug\net6.0\staticwebassets.build.json
+D:\dotnet-rpg\obj\Debug\net6.0\staticwebassets.development.json
+D:\dotnet-rpg\obj\Debug\net6.0\scopedcss\bundle\dotnet-rpg.styles.css
+D:\dotnet-rpg\obj\Debug\net6.0\dotnet-rpg.csproj.CopyComplete
+D:\dotnet-rpg\obj\Debug\net6.0\dotnet-rpg.dll
+D:\dotnet-rpg\obj\Debug\net6.0\refint\dotnet-rpg.dll
+D:\dotnet-rpg\obj\Debug\net6.0\dotnet-rpg.pdb
+D:\dotnet-rpg\obj\Debug\net6.0\dotnet-rpg.genruntimeconfig.cache
+D:\dotnet-rpg\obj\Debug\net6.0\ref\dotnet-rpg.dll
+D:\New folder\dotnet-rpg\bin\Debug\net6.0\appsettings.Development.json
+D:\New folder\dotnet-rpg\bin\Debug\net6.0\appsettings.json
+D:\New folder\dotnet-rpg\bin\Debug\net6.0\dotnet-rpg.exe
+D:\New folder\dotnet-rpg\bin\Debug\net6.0\dotnet-rpg.deps.json
+D:\New folder\dotnet-rpg\bin\Debug\net6.0\dotnet-rpg.runtimeconfig.json
+D:\New folder\dotnet-rpg\bin\Debug\net6.0\dotnet-rpg.dll
+D:\New folder\dotnet-rpg\bin\Debug\net6.0\dotnet-rpg.pdb
+D:\New folder\dotnet-rpg\bin\Debug\net6.0\AutoMapper.dll
+D:\New folder\dotnet-rpg\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\New folder\dotnet-rpg\bin\Debug\net6.0\Humanizer.dll
+D:\New folder\dotnet-rpg\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\New folder\dotnet-rpg\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\New folder\dotnet-rpg\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\New folder\dotnet-rpg\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\New folder\dotnet-rpg\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\New folder\dotnet-rpg\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\New folder\dotnet-rpg\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\New folder\dotnet-rpg\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\New folder\dotnet-rpg\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\New folder\dotnet-rpg\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\New folder\dotnet-rpg\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\New folder\dotnet-rpg\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\New folder\dotnet-rpg\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\New folder\dotnet-rpg\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\New folder\dotnet-rpg\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\New folder\dotnet-rpg\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\New folder\dotnet-rpg\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\New folder\dotnet-rpg\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\New folder\dotnet-rpg\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\New folder\dotnet-rpg\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\New folder\dotnet-rpg\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\New folder\dotnet-rpg\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\New folder\dotnet-rpg\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\New folder\dotnet-rpg\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\New folder\dotnet-rpg\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\New folder\dotnet-rpg\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\New folder\dotnet-rpg\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\New folder\dotnet-rpg\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder\dotnet-rpg\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder\dotnet-rpg\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder\dotnet-rpg\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder\dotnet-rpg\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\New folder\dotnet-rpg\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\New folder\dotnet-rpg\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\New folder\dotnet-rpg\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\New folder\dotnet-rpg\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\New folder\dotnet-rpg\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\New folder\dotnet-rpg\obj\Debug\net6.0\dotnet-rpg.csproj.AssemblyReference.cache
+D:\New folder\dotnet-rpg\obj\Debug\net6.0\dotnet-rpg.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\dotnet-rpg\obj\Debug\net6.0\dotnet-rpg.AssemblyInfoInputs.cache
+D:\New folder\dotnet-rpg\obj\Debug\net6.0\dotnet-rpg.AssemblyInfo.cs
+D:\New folder\dotnet-rpg\obj\Debug\net6.0\dotnet-rpg.csproj.CoreCompileInputs.cache
+D:\New folder\dotnet-rpg\obj\Debug\net6.0\dotnet-rpg.MvcApplicationPartsAssemblyInfo.cs
+D:\New folder\dotnet-rpg\obj\Debug\net6.0\dotnet-rpg.MvcApplicationPartsAssemblyInfo.cache
+D:\New folder\dotnet-rpg\obj\Debug\net6.0\staticwebassets.build.json
+D:\New folder\dotnet-rpg\obj\Debug\net6.0\staticwebassets.development.json
+D:\New folder\dotnet-rpg\obj\Debug\net6.0\scopedcss\bundle\dotnet-rpg.styles.css
+D:\New folder\dotnet-rpg\obj\Debug\net6.0\dotnet-rpg.csproj.CopyComplete
+D:\New folder\dotnet-rpg\obj\Debug\net6.0\dotnet-rpg.dll
+D:\New folder\dotnet-rpg\obj\Debug\net6.0\refint\dotnet-rpg.dll
+D:\New folder\dotnet-rpg\obj\Debug\net6.0\dotnet-rpg.pdb
+D:\New folder\dotnet-rpg\obj\Debug\net6.0\dotnet-rpg.genruntimeconfig.cache
+D:\New folder\dotnet-rpg\obj\Debug\net6.0\ref\dotnet-rpg.dll
+D:\New folder\dotnet-rpg\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\New folder\dotnet-rpg\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\New folder\dotnet-rpg\bin\Debug\net6.0\Scrutor.dll
+D:\New folder\dotnet-rpg\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+D:\New folder\dotnet-rpg\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+D:\workspace\rpg-model-rpgg\bin\Debug\net6.0\appsettings.Development.json
+D:\workspace\rpg-model-rpgg\bin\Debug\net6.0\appsettings.json
+D:\workspace\rpg-model-rpgg\bin\Debug\net6.0\dotnet-rpg.exe
+D:\workspace\rpg-model-rpgg\bin\Debug\net6.0\dotnet-rpg.deps.json
+D:\workspace\rpg-model-rpgg\bin\Debug\net6.0\dotnet-rpg.runtimeconfig.json
+D:\workspace\rpg-model-rpgg\bin\Debug\net6.0\dotnet-rpg.dll
+D:\workspace\rpg-model-rpgg\bin\Debug\net6.0\dotnet-rpg.pdb
+D:\workspace\rpg-model-rpgg\bin\Debug\net6.0\AutoMapper.dll
+D:\workspace\rpg-model-rpgg\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\workspace\rpg-model-rpgg\bin\Debug\net6.0\Humanizer.dll
+D:\workspace\rpg-model-rpgg\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\workspace\rpg-model-rpgg\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\workspace\rpg-model-rpgg\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\workspace\rpg-model-rpgg\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\workspace\rpg-model-rpgg\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\workspace\rpg-model-rpgg\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\workspace\rpg-model-rpgg\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\workspace\rpg-model-rpgg\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\workspace\rpg-model-rpgg\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\workspace\rpg-model-rpgg\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\workspace\rpg-model-rpgg\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\workspace\rpg-model-rpgg\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\workspace\rpg-model-rpgg\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\workspace\rpg-model-rpgg\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\workspace\rpg-model-rpgg\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\workspace\rpg-model-rpgg\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\workspace\rpg-model-rpgg\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\workspace\rpg-model-rpgg\bin\Debug\net6.0\Scrutor.dll
+D:\workspace\rpg-model-rpgg\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+D:\workspace\rpg-model-rpgg\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+D:\workspace\rpg-model-rpgg\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\workspace\rpg-model-rpgg\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\workspace\rpg-model-rpgg\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\workspace\rpg-model-rpgg\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\workspace\rpg-model-rpgg\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\workspace\rpg-model-rpgg\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\workspace\rpg-model-rpgg\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\workspace\rpg-model-rpgg\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\workspace\rpg-model-rpgg\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\workspace\rpg-model-rpgg\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\workspace\rpg-model-rpgg\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\workspace\rpg-model-rpgg\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\workspace\rpg-model-rpgg\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\workspace\rpg-model-rpgg\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\workspace\rpg-model-rpgg\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\workspace\rpg-model-rpgg\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\workspace\rpg-model-rpgg\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\workspace\rpg-model-rpgg\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\workspace\rpg-model-rpgg\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\workspace\rpg-model-rpgg\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\workspace\rpg-model-rpgg\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\workspace\rpg-model-rpgg\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\workspace\rpg-model-rpgg\obj\Debug\net6.0\dotnet-rpg.csproj.AssemblyReference.cache
+D:\workspace\rpg-model-rpgg\obj\Debug\net6.0\dotnet-rpg.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\rpg-model-rpgg\obj\Debug\net6.0\dotnet-rpg.AssemblyInfoInputs.cache
+D:\workspace\rpg-model-rpgg\obj\Debug\net6.0\dotnet-rpg.AssemblyInfo.cs
+D:\workspace\rpg-model-rpgg\obj\Debug\net6.0\dotnet-rpg.csproj.CoreCompileInputs.cache
+D:\workspace\rpg-model-rpgg\obj\Debug\net6.0\dotnet-rpg.MvcApplicationPartsAssemblyInfo.cs
+D:\workspace\rpg-model-rpgg\obj\Debug\net6.0\dotnet-rpg.MvcApplicationPartsAssemblyInfo.cache
+D:\workspace\rpg-model-rpgg\obj\Debug\net6.0\staticwebassets.build.json
+D:\workspace\rpg-model-rpgg\obj\Debug\net6.0\staticwebassets.development.json
+D:\workspace\rpg-model-rpgg\obj\Debug\net6.0\scopedcss\bundle\dotnet-rpg.styles.css
+D:\workspace\rpg-model-rpgg\obj\Debug\net6.0\dotnet-rpg.csproj.CopyComplete
+D:\workspace\rpg-model-rpgg\obj\Debug\net6.0\dotnet-rpg.dll
+D:\workspace\rpg-model-rpgg\obj\Debug\net6.0\refint\dotnet-rpg.dll
+D:\workspace\rpg-model-rpgg\obj\Debug\net6.0\dotnet-rpg.pdb
+D:\workspace\rpg-model-rpgg\obj\Debug\net6.0\dotnet-rpg.genruntimeconfig.cache
+D:\workspace\rpg-model-rpgg\obj\Debug\net6.0\ref\dotnet-rpg.dll
