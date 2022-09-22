@@ -101,6 +101,9 @@ namespace dotnet_rpg.Services.CharacterService
 
             var serviceResponse = new ServiceResponse<GetCharacterDto>();
             var dbCharacter =  await _context.character
+
+            .Include(c => c.Weapon)
+            .Include(c => c.Skills)
             .FirstOrDefaultAsync(c => c.Id == id && c.user.Id == GetUserId());
             serviceResponse.Data = _mapper.Map<GetCharacterDto>(dbCharacter);
             return serviceResponse;
@@ -144,18 +147,28 @@ namespace dotnet_rpg.Services.CharacterService
 
         public async Task<ServiceResponse<GetCharacterDto>> AddCharacterSkill(AddCharacterSkillDto newCharacterSkill)
         {
-        var response = new ServiceResponse<GetAllCharactersDto>();
+        var response = new ServiceResponse<GetCharacterDto>();
         try{
             var Character = await _context.character
             .Include(c => c.Weapon)
             .Include(c => c.Skills)
             .FirstOrDefaultAsync(c => c.Id == newCharacterSkill.CharacterId && 
            c.user.Id == GetUserId());
+
             if(Character == null){
                 response.success = false ;
-              response.Message = "Character not Found"; 
+              response.Message = "Character not Found."; 
               return response ;
             }
+            var skill = await _context.Skills.FirstOrDefaultAsync(s => s.Id == newCharacterSkill.SkillId);
+            if(skill == null){
+                 response.success = false ;
+              response.Message = "Skiill not Found.";
+              return response ;
+            }
+            Character.Skills.Add(skill);
+            await _context.SaveChangesAsync();
+            response.Data = _mapper.Map<GetCharacterDto>(Character);
 
 
         }catch(Exception ex){
