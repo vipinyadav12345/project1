@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 using AutoMapper;
 using dotnet_rpg.Dto;
 using dotnet_rpg.Dto.Character;
+using dotnet_rpg.Dto.Fight;
 using dotnet_rpg.Dto.Skill;
 using dotnet_rpg.Dto.Weapon;
 
@@ -20,7 +21,7 @@ namespace dotnet_rpg
           //   CreateMap<GetCharacterDto,character>();
              CreateMap<Weapon , GetWeaponDto>();
               CreateMap<Skill , GetSkillDto>();
-
+         CreateMap<character,HighscoreDto>();
         }
     }
 }
